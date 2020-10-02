@@ -13,6 +13,7 @@
   Bibhash Roy
 
 # TECHNOLOGY COLOPHON
+# And please Bitcoin, go to moon!
 
     HTML5, CSS3
     jQuery, Modernizr
