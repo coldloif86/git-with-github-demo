@@ -13,7 +13,7 @@
   Bibhash Roy
 
 # TECHNOLOGY COLOPHON
-# And please Bitcoin, go to moon!
+# When will Ministry play "Cold Life"?
 
     HTML5, CSS3
     jQuery, Modernizr
